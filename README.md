@@ -26,5 +26,5 @@ Data on the European population was sourced from Eurostat:
 
 Cutoff date for analysis was May 6, 2024, determining the age of MEPs on that given date.
 
-For data wrangling and analysis, please see this [jupyter notebook]().
+For data wrangling and analysis, please see this [jupyter notebook](https://github.com/dw-data/eu-mep/blob/main/Analysis_CurrentParliament.ipynb).
 
