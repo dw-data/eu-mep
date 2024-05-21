@@ -1,6 +1,6 @@
 # European Parliament Diversity
 
-*This project was done in collaboration with partners from the [European Data Journalism Network (EDJNet)](), and was led by [SWR Data](https://twitter.com/SWRdata)*
+*This project was done in collaboration with partners from the [European Data Journalism Network (EDJNet)](), and was led by [SWR Data](https://twitter.com/SWRdata).*
 
 Idea: [Maximilian Henning](https://twitter.com/zarasophos), [SWR Data](https://twitter.com/SWRdata)
 
@@ -14,7 +14,7 @@ Data analysis and visualization: [Maximilian Henning](https://twitter.com/zaraso
 
 For details on data sources on the Members of European Parliament (MEPs), please refer to [SWR's github repo]().
 
-Data on the European population was taken from Eurostat
+Data on the European population was sourced from Eurostat:
 
 * [Age](https://doi.org/10.2908/DEMO_PJAN), age group sums were calculated in this [spreadsheet](https://docs.google.com/spreadsheets/d/1bMtbgM0zg6XOFjVIvyIuwnBzbCjB4gX6LCWZnOWZSjA/edit?usp=sharing)
 * [Gender](https://doi.org/10.2908/DEMO_PJAN)
