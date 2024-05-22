@@ -22,6 +22,8 @@ Data on the European population was sourced from Eurostat:
 * [Disability](https://doi.org/10.2908/HLTH_SILC_12)
 * [Migration background](https://doi.org/10.2908/MIGR_POP3CTB)
 
+Note that the minimum age to stand as MEP is 18 in most member states. More details can be found [here](https://www.europarl.europa.eu/RegData/etudes/ATAG/2023/749766/EPRS_ATA(2023)749766_EN.pdf)
+
 ## Data analysis and visualization
 
 Cutoff date for analysis was May 6, 2024, determining the age of MEPs on that given date.
