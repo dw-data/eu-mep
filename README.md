@@ -12,7 +12,7 @@ Data analysis and visualization: [Maximilian Henning](https://twitter.com/zaraso
 
 ## Data sources
 
-For details on data sources on the Members of European Parliament (MEPs), please refer to [SWR's github repo]().
+For details on data sources on the Members of European Parliament (MEPs), please refer to [SWR's github repo](https://github.com/SWRdata/p081_euparlament_divers).
 
 Data on the European population was sourced from Eurostat:
 
